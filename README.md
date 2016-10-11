@@ -13,3 +13,8 @@
 二つ目は今後利用する機会が増えることが考えられるGitHubなどの使い方に慣れるということです。
 
 よろしくお願いします。
+
+#レポートへのリンク
+* [スイッチ切断イベント](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-2.md)
+* [Hello_Trema](https://github.com/handai-trema/hello-trema-t-kito/blob/develop/report/report1-3.md)
+
